@@ -4,3 +4,4 @@ The purpose of this repository is to solve the two forms of the partial differen
 
 ![Modularity](inclusions.png)
 
+![Classes Hierarchy](classes_hierarchy.png)
