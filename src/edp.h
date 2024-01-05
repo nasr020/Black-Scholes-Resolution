@@ -11,6 +11,7 @@
 /**
  * @brief Classe abstraite représentant une équation différentielle aux dérivées partielles pour une option
  */
+
 class EDP
 {
     protected:
